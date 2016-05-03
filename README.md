@@ -15,8 +15,4 @@ nhm
   yj\fsf
   f
   f
-  f
-  s
-  f
-  f
-  sf
+  
