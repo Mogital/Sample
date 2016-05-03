@@ -20,10 +20,3 @@ nhm
   f
   f
   sf
-  sd
-  fsf
-  sdf
-  sdf
-  sd
-  fd
-  xj
